@@ -1,9 +1,7 @@
 Photoshop Layer Search Plugin
 =============================
 
-Searching for layers with Photoshop is not possible. The application does not support that function. But with this plugin, you can do the layer searching action. 
-
-[This](http://www.ethanolfireplacepros.com) will help you with your Photoshop jobs. 
+Searching for layers with Photoshop is not possible. The application does not support that function. But with this plugin, you can do the layer searching action. [This](http://www.ethanolfireplacepros.com) will help you with your Photoshop jobs, and will make the search faster. Install this plugin now.
 
 Download/Install
 ================
