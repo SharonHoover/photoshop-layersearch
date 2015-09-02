@@ -1,10 +1,9 @@
 Photoshop Layer Search Plugin
 =============================
 
-It is very hard to find a specific layer in photoshop. Photoshop doesn't support searching of layers. This plugin 
-helps you to do so. 
+Searching for layers with Photoshop is not possible. The application does not support that function. But with this plugin, you can do the layer searching action. 
 
-Quickly search through your photoshop layers. Focus by click.
+[This](http://www.ethanolfireplacepros.com) will help you with your Photoshop jobs. 
 
 Download/Install
 ================
@@ -24,7 +23,7 @@ From source
 
 Requirements
 ============
-I have tested it only in Adobe PS5, Mac.
+Tested it with Adobe PS5, Mac.
 
 Screenshot
 ===========
