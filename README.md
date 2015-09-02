@@ -11,7 +11,7 @@ Download/Install
 Download
 --------
 
-[Download installer](http://d1427ko760vwyx.cloudfront.net/LayerSearch.pkg)
+Search installer.
 
 
 From source
